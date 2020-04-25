@@ -1,2 +1,6 @@
+def collect(collection)
+
+
+end
 
 
